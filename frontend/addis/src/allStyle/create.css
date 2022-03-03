@@ -1,0 +1,39 @@
+.create{
+    width:500px;
+    background-color:white;
+    margin-left:400px;
+    margin-top:-850px;
+    display: none;
+}
+
+.createOne{
+    margin-left:150px;
+    padding:10px;
+}
+.createOne img{
+    width:100px;
+    height:100px;
+}
+.createTwo{
+    padding:10px;
+    margin-left:120px;
+}
+.createTwo input{
+  padding:10px;
+  margin:10px;
+  border-left:none;
+  border-right:none;
+  border-top:none;
+}
+.createTwo button{
+   background-color:white;
+   padding:20px;
+   cursor: pointer;
+   color:black;
+   border:1px solid black;
+   border-radius: 10px;
+}
+
+.createTwo button:hover{
+    color:red;
+}

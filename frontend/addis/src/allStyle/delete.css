@@ -1,0 +1,39 @@
+.delete{
+    width:700px;
+    background-color:white;
+    margin-left:300px;
+    margin-top:-800px;
+    display: none;
+}
+.deleteOne{
+    margin-left:250px;
+}
+.deleteOne img{
+    margin-left:50px;
+}
+.deleteOne button{
+    background-color:white;
+    border:1px solid black;
+    color:black;
+    padding:10px;
+    margin:10px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+table th{
+   padding:10px;
+   background-color: rgb(124, 106, 119); 
+   color:white;
+   border:none;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+table td{
+    padding:10px;
+}
+
+.remove img{
+    width:30px;
+    height:30px;
+    cursor:pointer;
+}

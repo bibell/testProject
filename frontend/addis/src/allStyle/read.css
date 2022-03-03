@@ -1,0 +1,39 @@
+.read{
+    background-color:white;
+    width:700px;
+    margin-left:300px;
+    margin-top:-850px;
+    display: none;
+}
+
+.readOne{
+    padding:10px;
+    margin-left:200px;
+
+}
+.readOne img{
+    width:100px;
+    height:100px;
+    margin-left:50px;
+}
+
+.readOne button{
+    background-color:white;
+    color:black;
+    border:1px solid black;
+    cursor:pointer;
+    padding:20px;
+    border-radius:10px;
+}
+.employeeTableOne{
+    width:700px;
+}
+.employeeTableOne table{
+    padding:20px;
+    border:none;
+
+}
+.employeeTableOne th{
+    padding:10px;
+    border-left:1px solid blue;
+}

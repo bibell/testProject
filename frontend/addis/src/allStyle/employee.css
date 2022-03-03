@@ -1,0 +1,41 @@
+.addEmployee{
+    background-color:white;
+    width:400px;
+    margin-left:450px;
+    margin-top:200px;
+    height:800px;
+    padding:15px;
+   
+}
+.addEmployee h1{
+   margin-left:80px;
+}
+
+.addEmployee p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
+}
+
+.addEmployee img{
+    margin-left:80px;
+    border-radius:20px;
+}
+
+.addEmployee input{
+    padding:30px;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    margin-left:80px;
+    border-color: rgb(185, 18, 110);
+   
+}
+
+.addEmployee button{
+    background-color:rgb(72, 72, 165);
+    color:white;
+    border:none;
+    margin-left:40px;
+    padding:10px;
+    cursor:pointer;
+}

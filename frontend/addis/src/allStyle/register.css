@@ -1,0 +1,66 @@
+.register{
+    position:fixed;
+    width:400px;
+    height:600px;
+    background-color:white;
+    margin-top:-950px;
+    margin-left:400px;
+    box-shadow: 10px 10px 30px 600px rgba(0, 0, 0, 0.473);
+    overflow: scroll;
+    overflow-x: hidden;
+    display:none;
+}
+.register h3{
+    margin-left:350px;
+    cursor:pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.register h3:hover{
+    color:gray;
+}
+.registerOne{
+    margin-left:100px;
+    padding:20px;
+}
+.registerOne img{
+    width:100px;
+    height:100px;
+    border-radius:50px;
+}
+.registerTwo{
+    margin-left:80px;
+    padding:10px;    
+}
+.registerTwo input{
+    padding:20px;
+    margin:10px;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    border-color:blue;
+}
+
+.registerTwo button{
+    margin-left:50px;
+    padding:10px;
+    border:none;
+    border:1px solid black;
+    border-radius:10px;
+    background-color: white;
+    color:black;
+    cursor:pointer;
+
+}
+.registerTwo button:hover{
+    border:2px solid red;
+}
+
+.valid{
+    color:red;
+    margin-left:100px;
+    display: none;
+}
+.passR{
+    color:red;
+    display: none;
+}

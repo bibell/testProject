@@ -1,0 +1,46 @@
+.header{
+    position:fixed;
+    width:100%;
+    margin-top:-200px;
+    background-color:white;
+    box-shadow: 10x 10px 30px rgb(49, 47, 47);
+}
+
+.headerOne{
+    padding:10px;
+    margin-left:40px;
+}
+
+.headerOne img{
+    width:50px;
+    height:50px;
+    border-radius:20px;
+    cursor:pointer;
+}
+.headerOne p{
+    margin-left:70px;
+    margin-top:-40px;
+    color:rgb(226, 23, 124);
+}
+.headerTwo{
+    margin-left:350px;
+    margin-top:-60px;
+    padding:20px;
+}
+.headerTwo a{
+    padding:15px;
+    cursor:pointer;
+    border-left:1px solid rgb(95, 4, 47);
+}
+.headerTwo img{
+    width:50px;
+    height:50px;
+}
+.headerTwo a:hover{
+    color:blue;
+    border-bottom:2px solid rgb(221, 21, 121);
+}
+
+#spage{
+    cursor:pointer;
+}
